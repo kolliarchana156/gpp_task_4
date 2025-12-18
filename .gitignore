@@ -1,0 +1,10 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# Database
+ledger.db
+
+# Environment
+.env
